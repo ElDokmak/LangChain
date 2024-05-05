@@ -1,1 +1,1 @@
-# Varios LangChain APPs
+# Various LangChain APPs
